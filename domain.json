@@ -1,1 +1,4 @@
 { "callback":"https://bitcoinnostr.com/api/lnurl/payreq/", "maxSendable":"1000000",  "minSendable":"1000", "metadata":"[["\text/plain\", /"Pay to Wallet of Satoshi/"], [\"text/identifier\" , \"username@bitcoinnostr.com\"]] , "commentAllowed":32, "tag":"Pay Reuqest", "allow Nostr":true , "nostrpubKey":npub..."}
+
+"package"
+"lnurl"
